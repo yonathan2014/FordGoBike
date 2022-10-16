@@ -1,4 +1,4 @@
-# FordGoBike
+# FordGoBike Bike-Sharing System Data Analysis
 This Repo contains files and analysis of a dataset containing information about individual rides made in a bike-sharing system Ford GoBike covering the greater San Francisco Bay area. 
 The dataset is very large and couldn't be attached in this repo. But it can be downloaded via one of the following links.
 > https://www.kaggle.com/code/chirag02/ford-gobike-data-analysis/data
